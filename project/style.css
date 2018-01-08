@@ -1,0 +1,44 @@
+.modal.loading .modal-content:before {
+    content: 'Loading...';
+    text-align: center;
+    line-height: 155px;
+    font-size: 20px;
+    background: rgba(0, 0, 0, .8);
+    position: absolute;
+    top: 55px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #EEE;
+    z-index: 1000;
+}
+.image{
+    float:left;
+    margin-top:250px;
+    padding:12px;
+    width:200px;
+}
+.text{
+    float:left;
+    margin-top:250px;
+    padding:12px;
+    margin-bottom:50px;
+    width:35%;
+    font-weight:bold;
+    font-size:13px;
+}
+ul#gallery {
+margin:0 auto;
+padding:0;
+list-style-type:none;
+width:90%;
+font-family: Monotype Corsiva, Harlow Solid Italic, serif;
+}
+ul#gallery li {
+float: left;
+margin:5px;
+}
+ul#gallery li p {
+text-align: center;
+margin:5px 0;
+}
