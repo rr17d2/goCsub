@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Food truck application</string>
+    <string name="hey">helloWorld</string>
+    <string name="searchLabel">Search food truck</string>
+    <string name="tuckUpdate">Update Truck Locations</string>
+    <string name="truckEditText">Enter Truck Name:</string>
+    <string name="corner">Corner of</string>
+    <string name="and">And</string>
+    <string name="baseUrl">https://www.cs.csub.edu/~jason/api/</string>
+    <string name="button">UPDATE TRUCK DETAIL</string>
+    <string name="todo">todo</string>
+    <string name="bla">bala</string>
+</resources>
+
